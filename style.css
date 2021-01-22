@@ -1,0 +1,19 @@
+body {
+    background-color: #ede7f6;
+}
+
+.ChartContainer {
+    width: 50%;
+    border-radius: 10px;
+    background-color: #ffffff;
+    padding: 10px 20px 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 25%
+}
+
+#header {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
